@@ -1,0 +1,35 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+
+# Deep Learning (TensorFlow for simplicity)
+tensorflow>=2.13.0
+
+# Computer Vision
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Recommender Systems
+scikit-surprise>=1.1.3
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+
+mediapipe>=0.10.14
